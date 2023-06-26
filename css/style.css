@@ -99,7 +99,7 @@
     height: 60px;
     /* background-color:  antiquewhite; */
     background-color: rgb(244, 218, 172);
-    overflow: auto;
+    overflow: hidden;
     position: fixed;
     top:0px;
     left: 0px;
